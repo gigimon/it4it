@@ -1,0 +1,11 @@
+User-agent: Yandex
+Allow: /
+
+User-agent: Google
+Allow: /
+
+User-agent: *
+Allow: /
+
+Host: it4it.ru
+Sitemap: http://it4it.ru/sitemap.xml
