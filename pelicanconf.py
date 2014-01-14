@@ -3,15 +3,15 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'gigimon'
-SITENAME = u"блог gigimon'а"
+SITENAME = u"Блог gigimon'а"
 SITEURL = 'http://it4it.ru'
 
 TIMEZONE = 'Europe/Simferopol'
 LOCALE = ('ru_RU')
 DEFAULT_LANG = u'ru'
 
-DATE_FORMATS = {u'ru': '%H:%M %d %B %Y'}
-DEFAULT_DATE_FORMAT = '%H:%M %d %B %Y'
+DATE_FORMATS = {u'ru': '%d %B %Y'}
+DEFAULT_DATE_FORMAT = '%d %B %Y'
 
 DEFAULT_CATEGORY = "misc"
 DEFAULT_PAGINATION = 10
@@ -52,9 +52,9 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 
 TYPOGRIFY = True
-PYGMENTS_RST_OPTIONS = {'classprefix': 'pgcss', 'linenos': 'table'}
+PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
-# THEME = 'tuxlite_tbs'
+THEME = 'theme/'
 
 # Blogroll
 # LINKS =  (
@@ -71,6 +71,8 @@ DISQUS_SITENAME = 'it4it'
 GOOGLE_ANALYTICS = 'UA-5586227-1'
 
 TWITTER_USERNAME = 'gigimon'
+
+LINKEDIN_URL = 'http://ua.linkedin.com/pub/oleg-suharev/44/936/411'
 GITHUB_URL = 'https://github.com/gigimon'
 
 PLUGIN_PATH = 'plugins'

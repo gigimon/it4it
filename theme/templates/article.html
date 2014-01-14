@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block content %}
+	<div class="row">
+		<div class="ui center aligned one column grid">
+			<div class="row">
+				<h2 class="ui header"><a href="{{ SITEURL }}" class="icon-link">&larr;</a> {{ article.title }}</h2>	
+			</div>
+    		<div class="row">
+    			<div class="one wide column">
+    				<h4 class="article-info">{{ article.locale_date }} &mdash; {{ article.category }} &mdash; 
+    				{% for tag in article.tags %}
+    					<a href="/{{ tag.url }}">{{ tag }}</a>
+  					{% endfor %}
+  				</h4>	
+    			</div>
+    		</div>
+    	</div>		
+	</div>
+	<div class="row">
+		<div class="ui left aligned two column grid">
+			<div class="three wide column blank"></div>
+			<div class="ten wide column blank">
+				<div class="content">
+					{{ article.content }}
+				</div>	
+			</div>
+		</div>
+	</div>
+
+{% endblock content %}

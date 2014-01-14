@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="ui grid">
+	{% for article in articles %}
+		{% if current_year != article.date.year %}
+			{% set current_year = article.date.year %}
+			<div class="row">
+				<div class="ui center aligned one column grid">
+    				<h2 class="ui header">{{ current_year }}</h2>
+    			</div>		
+			</div>
+		{% endif %}
+		<div class="row">
+			<div class="three wide column blank"></div>
+			<div class="right aligned three wide column post-date">{{ article.locale_date }}</div>
+			<div class="ten wide column">
+				<a href="/{{ article.url }}">{{ article.title }}</a>
+			</div>
+		</div>
+	{% endfor %}
+{% endblock content %}
