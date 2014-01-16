@@ -41,7 +41,7 @@ def reserve():
 
 def preview():
     local('pelican -s previewconf.py')
-    local('cd {deploy_path} && python -m SimpleHTTPServer'.format(**env))    
+    local('cd {preview_path} && python -m SimpleHTTPServer'.format(**env))    
 
 def cf_upload():
     rebuild()
