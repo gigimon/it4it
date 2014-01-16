@@ -10,12 +10,14 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://it4it.ru'
+SITEURL = ''
+RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
-OUTPUT_PATH = 'site'
+OUTPUT_PATH = 'preview'
+DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 

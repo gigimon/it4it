@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = u'gigimon'
 SITENAME = u"Блог gigimon'а"
-SITEURL = 'http://it4it.ru'
 
 TIMEZONE = 'Europe/Simferopol'
 LOCALE = ('ru_RU')
@@ -55,17 +54,6 @@ TYPOGRIFY = True
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
 THEME = 'theme/'
-
-# Blogroll
-# LINKS =  (
-# 	('RSS', 'http://it4it.ru/feeds/rss.xml'),
-# )
-
-# Social widget
-# SOCIAL = (
-# 	(u'Почта', 'gigimon4ik@gmail.com'),
-# 	('Linkedin', 'http://www.linkedin.com/pub/oleg-suharev/44/936/411')
-# )
 
 DISQUS_SITENAME = 'it4it'
 GOOGLE_ANALYTICS = 'UA-5586227-1'
