@@ -1,0 +1,954 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"code-block"
+			],
+			[
+				"облака",
+				"облаками"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"virtual",
+				"virtualmachineid"
+			],
+			[
+				"ass",
+				"assertEqual"
+			],
+			[
+				"pro",
+				"produce"
+			],
+			[
+				"add",
+				"add_produce"
+			],
+			[
+				"sen",
+				"sendData"
+			],
+			[
+				"_",
+				"_input"
+			],
+			[
+				"remo",
+				"removeData	.removeData()"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Sto",
+				"StorageSnapshot"
+			],
+			[
+				"NA",
+				"NAMESPACE"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"date",
+				"datetime  (class)"
+			],
+			[
+				"public",
+				"public_ips  (variable)"
+			],
+			[
+				"pub",
+				"public_ips  (variable)"
+			],
+			[
+				"open",
+				"openfirewall"
+			],
+			[
+				"private",
+				"private_end_port"
+			],
+			[
+				"priv",
+				"private_end_port"
+			],
+			[
+				"dir",
+				"directory"
+			],
+			[
+				"static",
+				"static_path"
+			],
+			[
+				"db",
+				"db_session"
+			],
+			[
+				"ini",
+				"init_db"
+			],
+			[
+				"ing",
+				"ingredients"
+			],
+			[
+				"pr",
+				"proto"
+			],
+			[
+				"Se",
+				"SearchHandler"
+			],
+			[
+				"So",
+				"SockJSConnection"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"Ing",
+				"IngredientAlias"
+			],
+			[
+				"DB",
+				"DB_USER"
+			],
+			[
+				"Recipe",
+				"RecipeIngredientAssociation"
+			],
+			[
+				"re",
+				"relationship"
+			],
+			[
+				"In",
+				"IngredientAliasAssociattion"
+			],
+			[
+				"in",
+				"ingredient_alias_association"
+			],
+			[
+				"Ingredient",
+				"IngredientAlias"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"__",
+				"__tablename__"
+			],
+			[
+				"S",
+				"SESSION_COOKIE_DOMAIN"
+			],
+			[
+				"un",
+				"unittest"
+			],
+			[
+				"ran",
+				"random_arrays"
+			],
+			[
+				"ra",
+				"random_arrays"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"sort_",
+				"sort_quick"
+			],
+			[
+				"ge",
+				"group_merger"
+			],
+			[
+				"Me",
+				"MergerSort"
+			],
+			[
+				"St",
+				"StreamListener"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"SIGI",
+				"SIGINT  (variable)"
+			],
+			[
+				"si",
+				"signal  (function)"
+			],
+			[
+				"table",
+				"table1"
+			],
+			[
+				"Data",
+				"DatabaseRequestHandler	(imported, class)"
+			],
+			[
+				"os",
+				"os  (module)"
+			],
+			[
+				"get",
+				"get_current_job	(imported, instance)"
+			],
+			[
+				"P",
+				"PIPE	(imported, instance)"
+			],
+			[
+				"public_ip",
+				"public_ip_id"
+			],
+			[
+				"new",
+				"network_id"
+			],
+			[
+				"str",
+				"stream	(local, instance)"
+			],
+			[
+				"s",
+				"SITES"
+			],
+			[
+				"EMAIL_",
+				"EMAIL_HOST"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/python/libcloud-basic.rst",
+			"settings":
+			{
+				"buffer_size": 3294,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content/python/napisanie-gui-dlya-python-s-pomoshhyu-easygui.rst",
+			"settings":
+			{
+				"buffer_size": 8832,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"emm",
+				"Emmet: Merge Lines"
+			],
+			[
+				"em",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"s",
+				"SVN: Commit…"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ht",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"h",
+				"HTMLPrettify: Prettify"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/napisanie-gui-dlya-python-s-pomoshhyu-easygui.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/libcloud-basic.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/avtorizaciya-na-sajtax-cherez-urllib2.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/fabfile.py",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/base.html",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/publishconf.py",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/pelicanconf.py",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/previewconf.py",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/base.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/article.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/disqus.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/index.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/tag.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/analytics.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/pelicanconf.py",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/publishconf.py",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/static/css/style.css",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/static/css/pygments.css",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/dinamicheskij-choicefield-v-django-forms.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/extra/robots.txt",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/page.html",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/fabfile.py",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/Pylinter/Pylinter.sublime-settings",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/socialnye-shtuki-v-django-s-redis-chast-1.rst",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gigimon/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/authors.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/windows/vechnyj-server.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/windows/ustanovka-windowsxp-s-fleshki-2.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/windows/nastrojka-vpn-servera-na-win2003-cherez-shlyuz-s-linux.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/skript-polucheniya-sostoyaniya-scheta-djuice.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/skript-otpravki-na-dpastecom.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/otdaem-sgenerirovannuyu-kartinku-sajtu-bez-soxraneniya.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/napisanie-gui-dlya-python-s-pomoshhyu-easygui.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/telefon-3g-kpk.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/podklyuchaem-monitor-i-televizor-po-hdmi.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/isteriya-vokrug-google-chrome.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/gigapikselnaya-fotka.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/chto-zh-takoe-mercurial.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/sravnenie-konsolnyx-torrent-kachalok-s-web-mordoj-chast-1.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/vosstanovlenie-zagruzchika-grub.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/nastrojka-nfs-servera-i-klienta.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/sozdanie-vpn-seti-s-pomoshhyu-openvpn.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/shrifty-v-linux-kak-v-winxp-crt.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/prostaya-xranilka-parolej.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ispolzovanie-uuid-razdelov-v-fstab.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/zapusk-django-v-virtualenv-iz-pod-cherokee.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/zapusk-django-s-ispolzovaniem-mod_wsgi.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/socialnye-shtuki-v-django-s-redis-chast-2.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/django/podklyuchaem-django-debug-toolbar.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/windows/ustanovka-windows-xp-s-fleshki.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/windows/avtomaticheskij-bekap-ms-sql-2005-express-bazy.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/sravnenie-torrent-kachalok-chast-2.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/sravnenie-torrent-kachalok-3.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/sobiraem-mirandu-do.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/sravnenie-rss-chitalok-s-podderzhkoj-podkastov-dlya-pda.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/moi-lyubimye-podkasty.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/acer-aspire-one.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/dvigatel-tolpy.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/chto-poslushat-po-doroge.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/zashhita-ssh-ot-botom-s-pomoshhyu-sshguard.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/uznaem-temperaturu-vinchesterov-v-linux-i-freebsd.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ustanovka-xen-v-centos.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ustanovka-na-debian-5-lighttpd-mod_deflate.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ustanovka-ejabberd-s-xraneniem-dannyx-v-mysql.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ustanavlivaem-qgtkstyle-v-gentoo-linux.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/sozdanie-linux-virtualnoj-mashiny-domu-v-xen.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/podklyuchenie-vpn-s-pomoshhyu-pptp.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/podklyuchenie-bluetooth-garnitury-cherez-pulseaudio.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/pishem-konfig-conky.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/hgweb-na-lighttpd.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/dualboot-vmware-vm-linux-part-2.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/dualboot-vmware-vm-linux-part-1.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/bystro-razvertyvaem-windows-sharu-na-linux.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/brauzer-arora-iz-git.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/avtomontirovanie-s-pomoshhyu-udev.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/output/2008/06/26/moi-lyubimye-podkasty/index.html",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/skript-dlya-skachki-anime-s-dattebayo.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/risuem-s-pomoshhyu-pil.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/funkcionalnoe-testirovanie-s-freshen.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/python/avtorizaciya-na-sajtax-cherez-urllib2.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/strannoe-pianino-v-gorode.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/misc/obzorchik-bluetooth-naushnikov-sony-dr-bt21g-i-istoriya-vybora.rst",
+		"/Users/gigimon/workspace/python/home/src/pelican-it4it/content/linux/ploxoj-mtu.rst",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/test_gce.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/gce.py",
+		"/Users/gigimon/Downloads/etc/redis/redis.6379.conf",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/gce/global_images.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/base.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/openstack.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/cloudstack.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/ec2.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/test_ec2.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/test_cloudstack.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/cloudsigma.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/utils/iso8601.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/modify_image_attribute.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/deregister_image.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/create_snapshot.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_volumes.xml",
+		"/Users/gigimon/workspace/python/home/src/wicc/static/js/search_jsplugin.js",
+		"/Users/gigimon/workspace/python/home/src/wicc/static/js/search.js",
+		"/Users/gigimon/workspace/python/home/src/wicc/templates/index.html",
+		"/Users/gigimon/workspace/python/home/src/wicc/static/css/item.min.css",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_snapshots.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/create_volume.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/utils/xml.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_instances.xml",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/ecp.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/cloudstack.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/base.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/test_cloudstack.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/createSSHKeyPair_default.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/listSSHKeyPairs_default.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/deleteSSHKeyPair_default.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/ec2.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/listPortForwardingRules_default.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/createPortForwardingRule_default.json",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/digitalocean.py",
+		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/common/openstack.py",
+		"/Users/gigimon/workspace/python/scalr/src/revizor/VagrantFile",
+		"/Users/gigimon/workspace/python/scalr/src/int-cookbooks/cookbooks/revizor/attributes/default.rb",
+		"/Users/gigimon/workspace/python/home/src/wicc/static/js/jquery.tokeninput.js",
+		"/Users/gigimon/workspace/python/home/src/wicc/handlers.py",
+		"/Users/gigimon/workspace/python/home/src/wicc/app.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"http://www.it4it.ru/wp-content/uploads/",
+			"eucalyptus",
+			"list_ima",
+			"ex_get_ima",
+			"images",
+			"to_node_ima",
+			"snapshots",
+			"keypair",
+			"volumesn",
+			"to_volume",
+			"list_volumes",
+			"to_sna",
+			"datetim",
+			"datetime",
+			"datettime",
+			"datetime",
+			"ex_list_po",
+			"ex_modi",
+			"modify_i",
+			"keypair",
+			"_image",
+			"delete_ima",
+			"to_volume",
+			"_to_vol",
+			"list_vol",
+			"list_volume",
+			"list_n",
+			"to_sna",
+			"to_snap",
+			"create_sn",
+			"Volumesna",
+			"to_sna",
+			"state",
+			"status",
+			"volume",
+			"list_vo",
+			"StorageVol",
+			"VolumeSna",
+			"<<<",
+			"list_ke",
+			"key_name",
+			"to_node",
+			"list_node",
+			"list_n",
+			"['virtualmachineid']",
+			"ex_m",
+			"service",
+			"OpenStackNodeDr",
+			"OpenStack_1_1_NodeDriver",
+			"open",
+			"home/re",
+			"open",
+			"revizor-web",
+			"ubuntu1004",
+			"haproxy",
+			"rabbitmq",
+			"mongodb",
+			"mongodb-centos6",
+			"redis26-centos6",
+			"mysql-ubuntu",
+			"mongodb",
+			"rabbitmq-ubuntu1204-devel",
+			"rabbitmq",
+			"percona-ubuntu",
+			"percona",
+			"nodeim",
+			"nodeimage",
+			"dirve",
+			"enter",
+			"list",
+			"haproxy",
+			", \"idcfnew\"",
+			",\"idcfnew\"",
+			",\"cloudstack\"",
+			",\"ucloud\"",
+			"maria",
+			"178.63.90.229",
+			"redis-centos6",
+			"nginx-cen",
+			"mysql-ubuntu10",
+			"nginx-cen",
+			"amzn6",
+			"amzn",
+			"52549",
+			"centos6-devel",
+			"mongodb64-c",
+			"debian6",
+			"arch",
+			"\"arch\":[\\[\\] ,\"_\\w\\d]+,",
+			"\"arch\":[ ,\"_\\w\\d]+,",
+			"\"arch\"[: \"\\w\\d]+,",
+			"mongodb64-ubuntu1204",
+			"mongodb64-",
+			"46976",
+			"Maxnet",
+			"                 \n",
+			"\"dist\": [",
+			"postgresq-ubuntu1204",
+			"postgresq",
+			"selected",
+			"check_pro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"{filename}/images/",
+			"revizor",
+			"array",
+			"",
+			"78.46.196.236",
+			"debian7",
+			"",
+			"db"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/python/libcloud-basic.rst",
+					"settings":
+					{
+						"buffer_size": 3294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2715,
+								2715
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/RestructuredText Improved/reStructuredText Improved.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 518.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/python/napisanie-gui-dlya-python-s-pomoshhyu-easygui.rst",
+					"settings":
+					{
+						"buffer_size": 8832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/RestructuredText Improved/reStructuredText Improved.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2513.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true
+}

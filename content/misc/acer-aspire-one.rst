@@ -51,7 +51,7 @@ WiFi, индикации показателей бука (батарея) и м�
 игру.
 
 .. |image10| image:: {filename}/images/2008/12/2008-11-09-193036_1024x600_scrot.png
-   :target: filename}/images/2008/12/2008-11-09-193036_1024x600_scrot.png
+   :target: {filename}/images/2008/12/2008-11-09-193036_1024x600_scrot.png
 
 .. |image0| image:: {filename}/images/2008/12/dsc00078-300x300.jpg
    :target: {filename}/images/2008/12/dsc00078.jpg

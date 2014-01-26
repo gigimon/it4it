@@ -16,6 +16,9 @@ def clean():
     if os.path.isdir(DEPLOY_PATH):
         local('rm -rf {deploy_path}'.format(**env))
         local('mkdir {deploy_path}'.format(**env))
+    if os.path.isdir(env.preview_path):
+        local('rm -rf {preview_path}'.format(**env))
+        local('mkdir {preview_path}'.format(**env))
 
 def build():
     local('pelican -s publishconf.py')
