@@ -281,23 +281,20 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "/Users/gigimon/Downloads/primary.xml",
-			"settings":
-			{
-				"buffer_size": 67786,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 307.0,
+		"height": 127.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -323,16 +320,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"s",
 				"SVN: Commit…"
-			],
-			[
-				"packa",
-				"Package Control: List Packages"
 			],
 			[
 				"pac",
@@ -351,7 +340,7 @@
 				"HTMLPrettify: Prettify"
 			]
 		],
-		"width": 449.0
+		"width": 458.0
 	},
 	"console":
 	{
@@ -368,19 +357,34 @@
 	},
 	"file_history":
 	[
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/devops/useful-honcho.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/zapusk-django-s-ispolzovaniem-mod_wsgi.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/socialnye-shtuki-v-django-s-redis-chast-1.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/otdaem-sgenerirovannuyu-kartinku-sajtu-bez-soxraneniya.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/libcloud-basic.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/homefinance/1-intro.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/zapusk-django-v-virtualenv-iz-pod-cherokee.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/socialnye-shtuki-v-django-s-redis-chast-2.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/nginx-django-russian.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/previewconf.py",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/index.html",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/category.html",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/static/css/style.css",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/article.html",
+		"/Users/gigimon/Downloads/fs_to_server/index.html",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/base.html",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/my-books.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/moi-lyubimye-podkasty.rst",
+		"/Users/gigimon/Downloads/primary.xml",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/radiot-statistics.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/fabfile.py",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/sobiraem-mirandu-do.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/acer-aspire-one.rst",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/misc/moi-lyubimye-podkasty.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/images/2014/01/radiot.jpg",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/napisanie-gui-dlya-python-s-pomoshhyu-easygui.rst",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/libcloud-basic.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/avtorizaciya-na-sajtax-cherez-urllib2.rst",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/base.html",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/publishconf.py",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/pelicanconf.py",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/previewconf.py",
 		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/base.html",
 		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/article.html",
 		"/Users/gigimon/workspace/python/home/src/pelican-it4it/theme/templates/disqus.html",
@@ -480,22 +484,7 @@
 		"/Users/gigimon/workspace/python/home/src/wicc/static/js/search.js",
 		"/Users/gigimon/workspace/python/home/src/wicc/templates/index.html",
 		"/Users/gigimon/workspace/python/home/src/wicc/static/css/item.min.css",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_snapshots.xml",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/create_volume.xml",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/utils/xml.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_instances.xml",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/compute/drivers/ecp.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/cloudstack.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/base.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/test_cloudstack.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/createSSHKeyPair_default.json",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/listSSHKeyPairs_default.json",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/deleteSSHKeyPair_default.json",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/ec2.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/listPortForwardingRules_default.json",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/test/compute/fixtures/cloudstack/createPortForwardingRule_default.json",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/compute/drivers/digitalocean.py",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud/libcloud/common/openstack.py"
+		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_snapshots.xml"
 	],
 	"find":
 	{
@@ -514,6 +503,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#.",
 			">",
 			"http://www.it4it.ru/wp-content/uploads/",
 			"eucalyptus",
@@ -623,6 +613,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"-",
 			"{filename}/images/",
 			"revizor",
 			"array",
@@ -638,130 +629,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "/Users/gigimon/Downloads/primary.xml",
-					"settings":
-					{
-						"buffer_size": 67786,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7188,
-								7188
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/XML/XML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 449.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 0.0

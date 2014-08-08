@@ -1,4 +1,6 @@
 {% extends 'base.html' %}
+
+{% block title %}{{ super() }} &larr; {{ article.title }}{% endblock %}
 {% block content %}
 	<div class="row">
 		<div class="ui center aligned one column grid">
