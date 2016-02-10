@@ -4,12 +4,36 @@
 		"selected_items":
 		[
 			[
-				"pr",
-				"preview"
+				"lin",
+				"linki"
+			],
+			[
+				"li",
+				"linki"
+			],
+			[
+				"испол",
+				"используется"
+			],
+			[
+				"l",
+				"linki"
 			],
 			[
 				"co",
-				"code-block"
+				"caution"
+			],
+			[
+				"приложени",
+				"приложений"
+			],
+			[
+				"стру",
+				"структура"
+			],
+			[
+				"pr",
+				"preview"
 			],
 			[
 				"облака",
@@ -284,9 +308,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"res",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -294,10 +330,6 @@
 			[
 				"packa",
 				"Package Control: Disable Package"
-			],
-			[
-				"ins",
-				"Package Control: Install Package"
 			],
 			[
 				"package con",
@@ -357,15 +389,16 @@
 	},
 	"file_history":
 	[
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/django-project-structure.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/zapusk-django-v-virtualenv-iz-pod-cherokee.rst",
+		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/nginx-django-russian.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/devops/useful-honcho.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/zapusk-django-s-ispolzovaniem-mod_wsgi.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/socialnye-shtuki-v-django-s-redis-chast-1.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/otdaem-sgenerirovannuyu-kartinku-sajtu-bez-soxraneniya.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/python/libcloud-basic.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/homefinance/1-intro.rst",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/zapusk-django-v-virtualenv-iz-pod-cherokee.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/socialnye-shtuki-v-django-s-redis-chast-2.rst",
-		"/Users/gigimon/workspace/python/home/src/it4it.ru/content/django/nginx-django-russian.rst",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/previewconf.py",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/index.html",
 		"/Users/gigimon/workspace/python/home/src/it4it.ru/theme/templates/category.html",
@@ -483,8 +516,7 @@
 		"/Users/gigimon/workspace/python/home/src/wicc/static/js/search_jsplugin.js",
 		"/Users/gigimon/workspace/python/home/src/wicc/static/js/search.js",
 		"/Users/gigimon/workspace/python/home/src/wicc/templates/index.html",
-		"/Users/gigimon/workspace/python/home/src/wicc/static/css/item.min.css",
-		"/Users/gigimon/workspace/python/opensource/src/libcloud-my-new/libcloud/test/compute/fixtures/ec2/describe_snapshots.xml"
+		"/Users/gigimon/workspace/python/home/src/wicc/static/css/item.min.css"
 	],
 	"find":
 	{
@@ -679,11 +711,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
