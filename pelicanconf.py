@@ -51,7 +51,7 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 TRANSLATION_FEED_ATOM = None
 
 TYPOGRIFY = True
-PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
+# PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
 THEME = 'theme/'
 
