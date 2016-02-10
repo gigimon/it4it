@@ -60,6 +60,8 @@ GOOGLE_ANALYTICS = 'UA-5586227-1'
 
 TWITTER_USERNAME = 'gigimon'
 
+WITH_FUTURE_DATES = True
+
 LINKEDIN_URL = 'http://ua.linkedin.com/pub/oleg-suharev/44/936/411'
 GITHUB_URL = 'https://github.com/gigimon'
 
@@ -68,13 +70,13 @@ PLUGIN_PATH = 'plugins'
 PLUGINS = [
     'youtube',
     'vimeo',
-    'sitemap'
+    'extended_sitemap'
 ]
 
 SITEMAP = {
     'format': 'xml',
     'priorities': {
-        'articles': 0.5,
+        'articles': 0.8,
         'indexes': 0.5,
         'pages': 0.5
     },
