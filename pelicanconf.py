@@ -65,7 +65,7 @@ WITH_FUTURE_DATES = True
 LINKEDIN_URL = 'http://ua.linkedin.com/pub/oleg-suharev/44/936/411'
 GITHUB_URL = 'https://github.com/gigimon'
 
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins']
 
 PLUGINS = [
     'youtube',

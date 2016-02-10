@@ -28,7 +28,7 @@ def test_simple():
 И выполним сначала nosetests:
 
 ```bash
-nosetests test.py                                                                                                                                                      130  
+nosetests test.py
 F
 ======================================================================
 FAIL: test.test_simple
