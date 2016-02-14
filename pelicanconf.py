@@ -35,7 +35,7 @@ PATH = "content"
 OUTPUT_PATH = "site"
 
 STATIC_PATHS = ['images', 'files', 'extra/robots.txt']
-EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},}
+EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'}}
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
