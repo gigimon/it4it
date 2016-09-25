@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ super() }} &larr; {{ page.title }}{% endblock %}
+{% block content %}
+    <div class="row">
+        <div class="ui center aligned one column grid">
+            <div class="row">
+                <h2 class="ui header"><a href="{{ SITEURL }}" class="icon-link">&larr;</a> {{ page.title }}</h2> 
+            </div>
+        </div>      
+    </div>
+    <div class="row">
+        <div class="ui left aligned two column grid">
+            <div class="three wide column blank"></div>
+            <div class="ten wide column blank">
+                <div class="content">
+                    {{ page.content }}
+                </div>  
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="one wide column">
+        {% if DISQUS_SITENAME %}
+             <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_shortname = '{{ DISQUS_SITENAME }}';
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        {% endif %}
+        </div>
+    </div>
+
+{% endblock content %}
